@@ -5,8 +5,13 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Junyoungson808",
           "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/junyoung-son-g/",
+          "class": "fab fa-linkedin"
         },
         {
           "name": "instagram",
