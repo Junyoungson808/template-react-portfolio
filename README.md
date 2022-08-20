@@ -1,12 +1,12 @@
-Number and name of feature: ________________________________
+Number and name of feature: __Portfolio__
 
 Estimate of time needed to complete: _5:00_
 
 Start time: _5:16_
 
-Finish time: _____
+Finish time: _6:33__
 
-Actual time needed to complete: _11:59_
+Actual time needed to complete: _1:17min_
 
 # Modify this portfolio
 
